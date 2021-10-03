@@ -11,7 +11,7 @@
 - 😄 Nickname: Sid
 - ⚡ Fun fact: I share my birthday with Michael Jackson
 
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" alt="Developer gif">
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" alt="Developer gif" align="right">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhant1419)](https://github.com/anuraghazra/github-readme-stats)
 
