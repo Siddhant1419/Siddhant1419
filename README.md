@@ -13,6 +13,9 @@
 - ⚡ Fun fact: I share my birthday with Michael Jackson
 <!-- - 📫 How to reach me:  --> 
 
+<br>
+<br>
+
 📍How to reach me:
 
 <div class="Social_Media" diplay: flex justify-content: space-between>
@@ -21,6 +24,9 @@
   <a href="https://twitter.com/Andrevirtue" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="twitter" height="40px" width="40px"></a>
   <a href="https://stackoverflow.com/users/16036561/siddhant-acharya" target="blank"><img     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" height="40px" width="40px"></a>
 </div>
+
+<br>
+<br>
  
 
 💡Skills:
