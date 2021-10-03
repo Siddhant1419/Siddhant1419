@@ -2,7 +2,7 @@
 
 ## I am a Software Engineer, Gamer and a Sports person.
 
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="200px" width="330px" align="right">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="250px" width="330px" align="right">
 
 - 🔭 I’m currently working on Likewise App
 - 🌱 I’m currently learning ReactJS
