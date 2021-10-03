@@ -15,6 +15,14 @@
 
 📍How to reach me:
 
+
+<a href="https://twitter.com/Andrevirtue" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="twitter"></a>
+<a href="https://stackoverflow.com/users/16036561/siddhant-acharya" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow"></a>
+<a href="https://twitter.com/Andrevirtue" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="twitter"></a>
+<a href="https://twitter.com/Andrevirtue" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="twitter"></a>
+
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/siddhant-acharya//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Andrevirtue)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16036561/siddhant-acharya)  
 
 💡Skills:
