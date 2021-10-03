@@ -18,4 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant1419)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Siddhant1419)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhant1419&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Siddhant1419)   
