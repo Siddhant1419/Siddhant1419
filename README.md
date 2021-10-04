@@ -13,7 +13,9 @@
 - ⚡ Fun fact: I share my birthday with Michael Jackson
 <!-- - 📫 How to reach me:  --> 
 
-<br>
+<br/>
+
+<!-- Social media Section -->
 
 ## 📍How to reach me:
 
@@ -24,14 +26,15 @@
   <a href="https://stackoverflow.com/users/16036561/siddhant-acharya" target="blank"><img     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" height="40px" width="40px"></a>
 </div>
 
-<br>
+<br/>
  
+<!-- Skills Section -->
 
 ## 💡Skills:
 
 <div class="skills" diplay:"flex" justify-content:"space-between">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40px" width="40px"> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40px" width="40px"> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" align="left" height="40px" width="40px"> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"  align="left" height="40px" width="40px"> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40px" width="40px"> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40px" width="40px"> 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40px" width="40px"> 
@@ -39,15 +42,15 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS" height="40px" width="40px">
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant1419)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhant1419&show_icons=true)  
 
-<br>
+<br/>
 
 ![Profile views](https://gpvc.arturio.dev/Siddhant1419)     
