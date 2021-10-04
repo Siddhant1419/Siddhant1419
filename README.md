@@ -26,7 +26,7 @@
   <a href="https://stackoverflow.com/users/16036561/siddhant-acharya" target="blank"><img     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" align="left" height="40px" width="40px"></a>
 </div>
 
-<br>
+<br />
  
 <!-- Skills Section -->
 
@@ -42,8 +42,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS"  align="left" height="40px" width="40px">
 </div>
 
-<br>
-<br>
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant1419)](https://github.com/anuraghazra/github-readme-stats)
 
