@@ -9,8 +9,10 @@
 - 👯 I’m looking to collaborate on open source platforms
 - 🤔 I need help with an app called as 'Vote of consent'
 - 💬 Ask me about Sports
+- 😴 I want to medidate more
 - 😄 Nickname: Sid
 - ⚡ Fun fact: I share my birthday with Michael Jackson
+
 
 <br />
 
