@@ -1,4 +1,4 @@
-### Hi there, I'm Siddhant - a.k.a [Sid,Field-Marshal]
+### Hi there, I'm Siddhant - a.k.a [Sid, Field-Marshal]
 
 ## I am a Software Engineer, Gamer and a Sports person.
 
