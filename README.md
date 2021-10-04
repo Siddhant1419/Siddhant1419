@@ -15,7 +15,7 @@
 
 <br>
 
-📍How to reach me:
+## 📍How to reach me:
 
 <div class="Social_Media" diplay: flex justify-content: space-between>
   <a href="https://github.com/Siddhant1419" target="blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40px" width="40px"></a>
@@ -27,7 +27,7 @@
 <br>
  
 
-💡Skills:
+## 💡Skills:
 
 <div class="skills" diplay:"flex" justify-content:"space-between">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40px" width="40px"> 
