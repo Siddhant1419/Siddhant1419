@@ -14,8 +14,6 @@
 - ⚡ Fun fact: I share my birthday with Michael Jackson
 
 
-<br />
-
 <!-- Social media Section -->
 
 ## 📍How to reach me:
