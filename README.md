@@ -11,9 +11,7 @@
 - 💬 Ask me about Sports
 - 😄 Nickname: Sid
 - ⚡ Fun fact: I share my birthday with Michael Jackson
-<!-- - 📫 How to reach me:  --> 
 
-<br/>
 
 <!-- Social media Section -->
 
