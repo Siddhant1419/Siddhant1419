@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Likewise App
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on open source platforms
-- 🤔 I’m looking for help with an app called as 'Vote of consent'
+- 🤔 I need help with an app called as 'Vote of consent'
 - 💬 Ask me about Sports
 - 😄 Nickname: Sid
 - ⚡ Fun fact: I share my birthday with Michael Jackson
