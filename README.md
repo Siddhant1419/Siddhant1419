@@ -12,6 +12,7 @@
 - 😄 Nickname: Sid
 - ⚡ Fun fact: I share my birthday with Michael Jackson
 
+<br />
 
 <!-- Social media Section -->
 
