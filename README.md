@@ -1,4 +1,4 @@
-### Hi there, I'm Siddhant - a.k.a [Sid, Field-Marshal]
+# Hi there, I'm Siddhant - a.k.a [Sid, Field-Marshal]
 
 ## Procrastination stops when you start ☺️
 
