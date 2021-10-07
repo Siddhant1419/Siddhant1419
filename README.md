@@ -1,6 +1,6 @@
 # Hi there, I'm Siddhant - a.k.a [Sid, Field-Marshal]
 
-## Procrastination stops when you start ☺️
+## Procrastination stops, when you start ☺️
 
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="200px" width="310px" align="right">
 
