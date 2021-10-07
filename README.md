@@ -1,6 +1,6 @@
 ### Hi there, I'm Siddhant - a.k.a [Sid, Field-Marshal]
 
-## I am a Software Engineer, Gamer and a Sports person.
+## Procrastination stops when you start ☺️
 
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="200px" width="310px" align="right">
 
