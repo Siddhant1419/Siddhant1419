@@ -2,7 +2,7 @@
 
 ## Procrastination stops, when you start ☺️
 
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="100px" width="210px" align="right">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="300px" width="310px" align="right">
 
 - 🔭 I’m currently working on Likewise App
 - 🌱 I’m currently learning ReactJS
