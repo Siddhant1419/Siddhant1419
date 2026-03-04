@@ -5,7 +5,7 @@
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="200px" width="250px" margin-right="20px" align="right">
 
 - 🔭 I’m currently working on Likewise App
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning more about LLM's
 - 👯 I’m looking to collaborate on open source platforms
 - 🤔 I need help with an app called as 'Vote of consent'
 - 💬 Ask me about Sports and Geopolitics
