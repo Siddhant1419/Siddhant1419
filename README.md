@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=70&lines=SIDDHANT+ACHARYA" alt="Siddhant Acharya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=1500&color=00D4FF&center=true&vCenter=true&width=1000&height=70&lines=SIDDHANT+ACHARYA" alt="Siddhant Acharya" />
 </h1>
 
 ### `Full-Stack Software Engineer · AI/ML · Cloud · Boston, MA`
@@ -160,7 +160,7 @@ My edge: the **intersection of battle-tested Java backend engineering and modern
 ## `$ ssh sid@personal`
 
 ```
-⚽  Midfielder  ·  reading the game = real-time analysis of 22 async processes
+⚽  Winger  ·  reading the game = real-time analysis of 22 async processes
 💃  Salsa & Contemporary  ·  good footwork is a UX problem — fixed it
 🌍  Lived across 3 countries  ·  obsessed with how systems actually work
 🎤  Shares a birthday with Michael Jackson  ·  unverified correlation with dancing
@@ -173,8 +173,8 @@ My edge: the **intersection of battle-tested Java backend engineering and modern
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhant1419&show_icons=true&theme=github_dark&border_color=00d4ff)](https://github.com/Siddhant1419)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant1419&theme=github_dark&border_color=00d4ff&layout=compact)](https://github.com/Siddhant1419)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Siddhant1419&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Siddhant1419)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siddhant1419&theme=darkhub&no-frame=true&margin-w=8&column=6)](https://github.com/Siddhant1419)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Siddhant1419&theme=github-dark-blue&border=00d4ff)](https://git.io/streak-stats)
 
