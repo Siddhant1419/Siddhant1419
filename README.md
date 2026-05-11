@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=SIDDHANT+ACHARYA" alt="Siddhant Acharya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=52&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&height=70&lines=SIDDHANT+ACHARYA" alt="Siddhant Acharya" />
 </h1>
 
 ### `Full-Stack Software Engineer · AI/ML · Cloud · Boston, MA`
